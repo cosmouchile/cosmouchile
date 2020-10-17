@@ -4,10 +4,17 @@ You can use the [editor on GitHub](https://github.com/cosmouchile/cosmouchile/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### List of contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+- Introduction
+- Background cosmological dynamics
+- The LCDM model
+- Thermal history
+- Basics of cosmological perturbation theory
+- Cosmic Inflation
+- Observations
+- ---
+- Statistical Methods
 ```markdown
 Syntax highlighted code block
 

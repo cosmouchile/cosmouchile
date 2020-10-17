@@ -8,7 +8,10 @@ Professors:
 - Gonzalo Palma
 Auxiliar:
 - Daniela Grandón
-- ---
+```
+
+
+- ------
 ### List of contents
 
 - Introduction

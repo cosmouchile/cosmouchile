@@ -1,9 +1,14 @@
 ## Welcome to the Cosmology Course
 
-You can use the [editor on GitHub](https://github.com/cosmouchile/cosmouchile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Here you will find important material and utilities for the course.
+Versions: FI7015-1 Primavera - 2020. 
+```markdown
+Professors:
+- Domenico Sapone
+- Gonzalo Palma
+Auxiliar:
+- Daniela Grandón
+- ---
 ### List of contents
 
 - Introduction
@@ -13,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Basics of cosmological perturbation theory
 - Cosmic Inflation
 - Observations
-- ---
+- ...
 - Statistical Methods
 ```markdown
 Syntax highlighted code block
@@ -39,9 +44,12 @@ Background Cosmology
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### References
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosmouchile/cosmouchile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Cosmology. Steven Weinberg
+- Dark energy and Observations. Luca Amendola
+- The Cosmic Microwave Background. Ruth Durrer
+
 
 ### Support or Contact
 
